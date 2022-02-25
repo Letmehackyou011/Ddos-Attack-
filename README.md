@@ -22,5 +22,6 @@ $ python3 DRipper.py
 
 python3 DRipper.py -s [ip Address] -t 135
 
-# example: python3 DRipper.py -s 0.00.00.00 -t 135
+# example
+ python3 DRipper.py -s 127.0. 0.1 -t 135
 
