@@ -3,7 +3,7 @@ Ddos attacking script
 
 
 
-Installation in Termux 
+# Installation in Termux 
 $ pkg install git -y
 
 $ pkg install python -y
@@ -18,9 +18,9 @@ $ ls
 $ python3 DRipper.py
 
 
-Usage
+# Usage
 
 python3 DRipper.py -s [ip Address] -t 135
 
-example: python3 DRipper.py -s 0.00.00.00 -t 135
+# example: python3 DRipper.py -s 0.00.00.00 -t 135
 
